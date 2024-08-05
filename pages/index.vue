@@ -25,15 +25,39 @@
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div class="p-6 bg-white shadow rounded">
             <h3 class="text-xl font-bold mb-4">Consultoría Empresarial</h3>
-            <p>Soluciones personalizadas para optimizar tu negocio.</p>
+            <p>
+              Ofrecemos soluciones personalizadas para optimizar y transformar tu negocio.
+            </p>
           </div>
           <div class="p-6 bg-white shadow rounded">
-            <h3 class="text-xl font-bold mb-4">Desarrollo de Software</h3>
-            <p>Aplicaciones a medida que impulsan la eficiencia.</p>
+            <h3 class="text-xl font-bold mb-4">Desarrollo de Software a Medida</h3>
+            <p>
+              Creamos aplicaciones personalizadas que mejoran la eficiencia y productividad de tu empresa.
+            </p>
           </div>
           <div class="p-6 bg-white shadow rounded">
             <h3 class="text-xl font-bold mb-4">Marketing Digital</h3>
-            <p>Estrategias efectivas para aumentar tu presencia online.</p>
+            <p>
+              Implementamos estrategias efectivas para aumentar tu presencia online y atraer más clientes.
+            </p>
+          </div>
+          <div class="p-6 bg-white shadow rounded">
+            <h3 class="text-xl font-bold mb-4">Producto SaaS</h3>
+            <p>
+              Desarrollamos y gestionamos soluciones SaaS para facilitar la gestión de tus procesos empresariales.
+            </p>
+          </div>
+          <div class="p-6 bg-white shadow rounded">
+            <h3 class="text-xl font-bold mb-4">Préstamos Privados</h3>
+            <p>
+              Ofrecemos servicios de financiación privada adaptados a las necesidades de tu negocio.
+            </p>
+          </div>
+          <div class="p-6 bg-white shadow rounded">
+            <h3 class="text-xl font-bold mb-4">Tiendas Físicas de Ventas</h3>
+            <p>
+              Administramos tiendas físicas especializadas en la venta de productos, comidas y bebidas.
+            </p>
           </div>
         </div>
       </div>
@@ -44,10 +68,7 @@
       <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold mb-8">Sobre Nosotros</h2>
         <p class="text-lg">
-          En Nevidech Group S.A.S, nos dedicamos a ofrecer soluciones integrales
-          que ayudan a las empresas a crecer y prosperar en el mundo digital.
-          Nuestro equipo de expertos está comprometido con la excelencia y la
-          innovación.
+          En Nevidech Group S.A.S, nos dedicamos a ofrecer soluciones integrales que ayudan a las empresas a crecer y prosperar en el mundo digital. Nuestro equipo de expertos está comprometido con la excelencia y la innovación.
         </p>
       </div>
     </section>
@@ -98,3 +119,7 @@ export default defineComponent({
   },
 });
 </script>
+
+<style scoped>
+/* Puedes agregar estilos adicionales aquí si es necesario */
+</style>
