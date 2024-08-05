@@ -21,7 +21,7 @@
     <!-- Sección de servicios -->
     <section id="services" class="py-20">
       <div class="container mx-auto text-center">
-        <h2 class="text-3xl font-bold mb-8">Nuestros Servicios</h2>
+        <h2 class="text-3xl font-bold mb-8">Nuestros Negocios</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div class="p-6 bg-white shadow rounded">
             <h3 class="text-xl font-bold mb-4">Consultoría Empresarial</h3>
@@ -68,7 +68,7 @@
       <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold mb-8">Sobre Nosotros</h2>
         <p class="text-lg">
-          En Nevidech Group S.A.S, nos dedicamos a ofrecer soluciones integrales que ayudan a las empresas a crecer y prosperar en el mundo digital. Nuestro equipo de expertos está comprometido con la excelencia y la innovación.
+          Nevidech Group S.A.S. es un grupo de negocios diversificado que opera en múltiples rubros, incluyendo consultoría empresarial, desarrollo de software, marketing digital, productos SaaS, financiación privada y gestión de tiendas físicas. Nos dedicamos a ofrecer soluciones integrales que ayudan a las empresas a crecer y prosperar en el mundo digital. Nuestro equipo de expertos está comprometido con la excelencia y la innovación.
         </p>
       </div>
     </section>
